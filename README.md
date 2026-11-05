@@ -1,6 +1,6 @@
 # YAD-AfroXLMR: evaluation code, reference and predictions
 
-Evaluation code and system outputs for **YAD-AfroXLMR**, a token-classification model for Yorùbá automatic diacritic restoration built on AfroXLMR-base. The repository reproduces every accuracy and output-preservation number in the paper from the released prediction files, on a CPU, in under a minute.
+Evaluation code and system outputs for **YAD-AfroXLMR**, a token-classification model for Yorùbá automatic diacritic restoration built on AfroXLMR-base. The repository reproduces every accuracy and output-preservation number in the paper from the released prediction files.
 
 | What | Reproducible here | Needs |
 |---|---|---|
