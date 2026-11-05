@@ -1,0 +1,3 @@
+# Scoring (evaluate.py, evaluate.ipynb). Versions verified to reproduce the paper's tables.
+rapidfuzz==3.14.6
+nltk==3.10.4

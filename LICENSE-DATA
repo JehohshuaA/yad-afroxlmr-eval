@@ -1,0 +1,16 @@
+Data licence: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Applies to:
+  data/unyo.txt, data/dcyo.txt   the YAD test set (source and reference), unchanged
+  predictions/*.txt              system outputs for every line of that test set
+
+The YAD test set is from the Yoruba Automatic Diacritization (YAD) benchmark
+(Olawole, Alabi, Sakpere and Adelani, 2024; https://github.com/ajesujoba/YAD),
+which is built from MENYO-20k (Adelani et al., 2021). MENYO-20k is released
+under CC BY-NC 4.0, and the files above inherit that licence. You may share and
+adapt them for non-commercial purposes with attribution to YAD, MENYO-20k and
+this repository.
+
+The code in this repository is licensed separately under the MIT licence
+(see LICENSE).

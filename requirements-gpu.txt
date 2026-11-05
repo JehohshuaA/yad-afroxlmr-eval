@@ -1,0 +1,7 @@
+# Additional packages for efficiency.ipynb (GPU). Colab already provides torch.
+-r requirements.txt
+torch
+transformers>=4.40
+sentencepiece
+huggingface_hub
+matplotlib
